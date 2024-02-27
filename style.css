@@ -165,7 +165,7 @@ p{
 
 }
 
-@media (max-width: 480px) {
+@media (max-width: 360px) {
     .newsCard {
       flex-direction: column;
       padding-bottom: 50px;
